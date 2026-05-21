@@ -1,43 +1,45 @@
-<h1 align="center">Hi there, I'm Yibo Han 👋</h1>
+<div align="center">
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=36&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Yibo+Han+👋;Welcome+to+my+Terminal+💻" alt="Typing SVG" />
+</a>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=B026FF&center=true&vCenter=true&width=800&lines=Quantitative+Researcher;Machine+Learning+Enthusiast;Market+Microstructure+Explorer" alt="Typing SVG" />
+</a>
+
+</div>
+
+---
+
+### 🌐 System.Info
+> **Location:** Shanghai University of Finance and Economics (SUFE)
+> **Guild:** Quantitative Investment and Trading Association (QITA)
+> **Status:** Compiling algorithms & Analyzing tick-level data...
+
+### 🚀 Current.Missions
+- ⚡ Developing **quantitative trading strategies** & executing tick-level factor mining.
+- 🧠 Building **machine learning pipelines** for high-frequency order book data (OFI).
+- 📈 Bridging **Advanced Econometrics** and modern Data Science.
+
+### 💻 Tech.Stack [ Modules_Loaded ]
+
+**[ Languages & DB ]** <br>
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FFCC)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=B026FF)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FFCC)
+
+**[ Modeling & ML ]** <br>
+![XGBoost](https://img.shields.io/badge/XGBoost-000000?style=for-the-badge&logo=xgboost&logoColor=B026FF)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=00FFCC)
+![Excel](https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=B026FF)
+
+**[ Version Control ]** <br>
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FFCC)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+
+### 📊 Data.Logs
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Quantitative+Researcher;Data+Scientist;Machine+Learning+Enthusiast" alt="Typing SVG" />
-  </a>
-</p>
-
-I am a researcher and developer passionate about Quantitative Finance, Market Microstructure, and Machine Learning. 
-
-### 🏫 Education & Affiliations
-- **Shanghai University of Finance and Economics (SUFE)**
-- Member of the **Quantitative Investment and Trading Association (QITA)**
-
-### 🔭 What I'm working on
-- Developing quantitative trading strategies and conducting tick-level factor mining (e.g., exploring Alpha generation via platforms like WorldQuant BRAIN).
-- Building machine learning pipelines to predict excess returns using high-frequency order book data (e.g., OFI).
-- Exploring the intersection of Advanced Econometrics, Macroeconomics, and modern Data Science.
-- Applying quantitative models in Mathematical Modeling competitions.
-
-### 💻 Tech Stack & Tools
-
-**Languages & Databases:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Modeling & Machine Learning:**
-![XGBoost](https://img.shields.io/badge/XGBoost-1798c1?style=flat-square&logo=xgboost&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Excel](https://img.shields.io/badge/Financial_Modeling-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-<br>
-*Other Tools & Methods: CatBoost, SHAP, Genetic Programming*
-
-**Version Control:**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=radical" alt="Top Langs" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gsmdog-H1004&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gsmdog-H1004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
 </p>
